@@ -20,7 +20,7 @@ The generate_random_data.py script generates random data points that follow a li
 
 To use the script, run the following command:
 
-python generate_random_data.py data.csv
+python generate_data.py data.csv
 
 where data.csv is the path to the CSV file where the data will be written. The script will generate 50 random data points and write them to the CSV file. The file will have a header row with the column names dog_size and cost_per_pound.
 
